@@ -14,6 +14,8 @@ php artisan migrate:refresh --seed
 # Add virtual host if using Apache else localhost with port 8000 is default server
 
 Database Name: "backend_laravel"
+Please check the "backend_laravel.sql" at root directory .
+Postman APIs import file at root "Postman_Api_Import_File" directory. 
 
 For Backend - Laravel : 
 in Terminal: 
